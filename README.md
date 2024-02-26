@@ -1,8 +1,24 @@
-# React + Vite
+Project's Title: Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Description:
+This is an App based on the movies API https://api.tvmaze.com/shows it shows a list of movies and when clicking on the movie it will show you a card with the information of the movie fetched from the Api
 
-Currently, two official plugins are available:
+you can search for the different movies by name.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+How to Use the Project:
+
+after adding the project to your editor of choice you should run the command npm install to install the needed dependencies.
+
+once the downloads are done you should be able to npm run dev and click on the port link to be able to open the website on your local machine
+
+Credits:
+
+this is a code along with La frosse Academy trainer
+
+How to Contribute to the Project:
+at the moment the project does not have testing so in the future the project should have that feature
+
+This website is deployed on Render:
+https://moviesapp-react.onrender.com/
+
+Last Updated on 26/02/2024
